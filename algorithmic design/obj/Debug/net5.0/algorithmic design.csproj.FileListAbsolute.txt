@@ -1,0 +1,15 @@
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.exe
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.deps.json
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.runtimeconfig.json
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.runtimeconfig.dev.json
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.dll
+C:\Users\Drake\source\repos\algorithmic design\bin\Debug\net5.0\algorithmic design.pdb
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.AssemblyInfoInputs.cache
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.AssemblyInfo.cs
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.csproj.CoreCompileInputs.cache
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.dll
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\refint\algorithmic design.dll
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.pdb
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\algorithmic design.genruntimeconfig.cache
+C:\Users\Drake\source\repos\algorithmic design\obj\Debug\net5.0\ref\algorithmic design.dll
